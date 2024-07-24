@@ -1,3 +1,15 @@
 streamlit
 numpy
 pandas
+networkx 
+plotly.graph_objects
+plotly_events
+combinations
+KMeans
+LabelEncoder
+import plotly.express 
+TfidfVectorizer
+matplotlib.pyplot
+stats
+Word2Vec
+re
